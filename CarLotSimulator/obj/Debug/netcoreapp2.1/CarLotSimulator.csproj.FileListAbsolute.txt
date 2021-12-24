@@ -1,0 +1,12 @@
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.deps.json
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.runtimeconfig.json
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.dll
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.pdb
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.AssemblyInfo.cs
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.dll
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.pdb
+C:\Users\forre\repos\ClassExe2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.genruntimeconfig.cache
